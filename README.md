@@ -1,6 +1,6 @@
 # Cybersecurity-Projects
 
-This repository serves as a collection of my cybersecurity projects, covering various domains such as network security, penetration testing and automation. Each project includes detailed documentation, scripts and methodologies used, demonstrating hands-on expertise in identifying vulnerabilities, analyzing security threats and implementing defensive measures.
+This repository documents and showcases a collection of my cybersecurity projects, spanning network security, penetration testing, security automation and threat detection. Each project is backed by detailed documentation, scripts and methodologies, demonstrating hands-on experience in vulnerability assessment, attack simulation, log analysis and security operations, reflecting real-world cybersecurity challenges and solutions.
 
 ## Directory
 
