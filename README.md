@@ -4,13 +4,13 @@ This repository serves as a collection of my cybersecurity projects, covering va
 
 ## Directory
 
-| Project | Description |
-|-|-|
-| <a href="1. Info Extractor">Info Extractor</a> | Bash script to automate system diagnostics by retrieving key system information. |
-| <a href="2. Remote Control">Remote Control</a> | Bash script to automate remote network tasks while maintaining anonymity, analyzing FTP vulnerabilities through simulated attacks and demonstrating how FTPS mitigates security risks by encrypting network traffic. |
-| <a href="3. Log Analyzer">Log Analyzer</a> | Python-based log analyzer that parses the auth.log file to monitor sudo command usage and track authentication changes, detect unauthorized access and privilege escalations attempts. |
-| <a href="4. Vulner">Vulner</a> | Python-based vulnerability scanner that automates network scanning, service detection, brute-force login attempts and vulnerability assessments to efficiently identify and mitigate security risks. |
-| <a href="5. Shadow Sentry">Shadow Sentry</a> | Setup of a controlled testing environment using pfSense, ELK and honeypots (Cowrie and T-Pot) to simulate and analyze network attacks, integrating log monitoring, alerting and attack automation through a custom Python script for validate detection effectiveness. |
+| Project | Domain | Description |
+|-|-|-|
+| <a href="1. Info Extractor">1. Info Extractor</a> | System Diagnostics and Monitoring | Bash script to automate system diagnostics by retrieving key system information. |
+| <a href="2. Remote Control">2. Remote Control</a> | Network Research and Attack Simulation | Bash script to automate remote network tasks while maintaining anonymity, analyzing FTP vulnerabilities through simulated attacks and demonstrating how FTPS mitigates security risks by encrypting network traffic. |
+| <a href="3. Log Analyzer">3. Log Analyzer</a> | Log Analysis and Threat Detechtion | Python-based log analyzer that parses the auth.log file to monitor sudo command usage and track authentication changes, detect unauthorized access and privilege escalations attempts. |
+| <a href="4. Vulner">4. Vulner</a> | Vulnerability Scanning and Exploitation | Python-based vulnerability scanner that automates network scanning, service detection, brute-force login attempts and vulnerability assessments to efficiently identify and mitigate security risks. |
+| <a href="5. Shadow Sentry">5. Shadow Sentry</a> | Security Operations and Threat Detection | Setup of a controlled testing environment using pfSense, ELK and honeypots (Cowrie and T-Pot) to simulate and analyze network attacks, integrating log monitoring, alerting and attack automation through a custom Python script for validate detection effectiveness. |
 
 ## Tools Learned
 
